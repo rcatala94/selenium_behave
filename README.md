@@ -9,13 +9,13 @@
 
 # Cómo ejecutar
 
-1. Features de Smart WiFi:
+1. Features of Melia Random Search:
 
 ```
 behave -D udid=1 .\features\melia_random_search.feature 
 ```
 
-2. Features de Smart WiFi:
+2. Features of Melia Rooms::
 
 ```
 behave -D udid=1 .\features\melia_rooms.feature --no-capture
