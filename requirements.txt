@@ -1,0 +1,5 @@
+behave
+behave-pytest
+selenium
+requests
+urllib3

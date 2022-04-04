@@ -1,0 +1,16 @@
+[
+  {
+    "udid":"1",
+    "browser_name":"chrome",
+    "browser_path":"C:/Users/Rcatala/Documents/Projects/selenium_behave/drivers/chromedriver.exe",
+    "windowSize":"1920,1080",
+    "screenshot":true
+  },
+  {
+    "udid":"2",
+    "browser_name":"firefox",
+    "browser_path":"C:/Users/Rcatala/Documents/Projects/selenium_behave/drivers/geckodriver.exe",
+    "windowSize":"1920,1080",
+    "screenshot":true
+  }
+]
